@@ -3,4 +3,4 @@ Hello world repository
 
 Hi github, 
 
-Sophia here. I had banana pancakes for breaka!
+Sophia here. I had banana pancakes for breaka, they were great.
